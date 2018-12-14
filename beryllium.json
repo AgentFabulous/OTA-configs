@@ -1,7 +1,16 @@
 {
-    "device": "beryllium",
-    "date": 20181012,
-    "version": 2.0,
-    "size": 0,
-    "url":"https://sourceforge.net/projects/posp/files/beryllium/potato_beryllium-9-20181109.Baked-v2.0.zip/download"
+    "message": "Build created successfully!",
+    "build": {
+        "_id": "5c12b3d5772e3e07f45eb5c3",
+        "name": "potato_beryllium-9-20181213.Baked-v2.1.zip",
+        "device": "beryllium",
+        "version": "2.1",
+        "channel": "weekly",
+        "size": "503387503",
+        "md5": "e5c8f584ada482745f3dda26f6f2d489",
+        "buildUrl": "weekly/beryllium/potato_beryllium-9-20181213.Baked-v2.1.zip",
+        "createdAt": "2018-12-13T19:32:37.376Z",
+        "updatedAt": "2018-12-13T19:32:37.376Z",
+        "__v": 0
+    }
 }
