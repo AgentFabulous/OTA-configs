@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1230764400,
-      "filename": "ota-package.zip",
+      "datetime": 1551164578,
+      "filename": "potato_beryllium-9-20190213.Baked-v2.1.WEEKLY.zip",
       "id": "5eb63bbbe01eeed093cb22bb8f5acdc3",
       "romtype": "nightly",
       "size": 314572800,
-      "url": "https://example.com/ota-package.zip",
-      "version": "15.1"
+      "url": "https://sourceforge.net/projects/posp/files/beryllium/weeklies/potato_beryllium-9-20190213.Baked-v2.1.WEEKLY.zip",
+      "version": "16.0"
     }
   ]
 }
